@@ -1,4 +1,4 @@
-import { Section, Container, CountryInfo, Loader } from 'components';
+import { Section, Container, CountryInfo, /*Loader*/ } from 'components';
 import { useEffect, useState } from 'react';
 import { useLocation } from 'react-router-dom';
 import { useParams, Link } from 'react-router-dom';

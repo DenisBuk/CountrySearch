@@ -2,8 +2,8 @@ import {
   Container,
   SearchForm,
   Section,
-  Heading,
-  Loader,
+  /*Heading,
+  Loader*/
   CountryList,
 } from 'components';
 import { useEffect, useState } from 'react';
